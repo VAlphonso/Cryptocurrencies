@@ -1,1 +1,3 @@
 # Cryptocurrencies
+
+In this project, I explore unsupervised machine learning algorithms using Pandas and SkLearn. The results are plotted on hvPlot and Plotly. I process and cluster the data, reduce its dimensions, reduce to three principal components using PCA and compile this into graphs and tables. I am using cryptocurrencies that are in the trading market. I group them into a classification system for analysis and better visualizations. 
